@@ -1,0 +1,1003 @@
+{
+    "HOME": "Tela inicial",
+    "ADDRESS": {
+        "BILLING_ADDRESS": "Endereço de cobrança",
+        "BUTTON_ADD_ADDRESS": "+ ADICIONAR ENDEREÇO",
+        "BUTTON_SAVE": "Usar este endereço",
+        "DELETE": "Excluir",
+        "DELETE_ADDRESS_SUCCESS": "Endereço excluído com sucesso.",
+        "EDIT": "Editar",
+        "CEP": "CEP",
+        "IDENTIFIER": "Descrição",
+        "STREET": "Street",
+        "NUMBER": "Number",
+        "COMPLEMENT": "Complement",
+        "NEIGHBORHOOD": "Neighborhood",
+        "CITY": "City",
+        "SAVE_ADDRESS": "Salvar endereço",
+        "SAVE_ADDRESS_SUCCESS": "Endereço salvo com sucesso.",
+        "STATE": "State",
+        "REGISTER": "Cadastrar",
+        "LOADING": "Salvando endereço...",
+        "DEFAULT": "Complete your address.",
+        "DEFAULT_CONFIRM": "Confirm the informations. Complete your address."
+    },
+    "title": "Title",
+    "HOMESCREEN": {
+        "SIGNIN": "SIGN IN",
+        "SIGNUP": "SIGN UP"
+    },
+    "CAMERA": {
+        "CENTER_YOUR_FACE": "Centralize seu rosto dentro da máscara.",
+        "CENTER_DOCUMENT_FRONT": "Posicione seu documento dentro da máscara.",
+        "CENTER_DOCUMENT_BACK": "Agora precisamos do verso.",
+        "CONFIRME_PICTURE_DOCUMENT": "O documento está legível no seu Nome e número de CPF? Se sim, é só confirmar!",
+        "CONFIRME_PICTURE_SELFIE": "Sua selfie ficou legal? Se sim, é só confirmar!"
+    },
+    "COMPONENTE_FOOTER": {
+        "BUTTON_DEPOSIT": "Depositar",
+        "DESC_DEPOSIT": "Adicione dinheiro à sua conta digital",
+        "BUTTON_RECEIVE": "Receive",
+        "DESC_RECEIVE": "By reading QR Code",
+        "BUTTON_HOME": "My account",
+        "DESC_HOME": "Home screen",
+        "BUTTON_PAY": "Pay",
+        "DESC_PAY": "Generate a QR Code or pay a ticket",
+        "BUTTON_TRANSFER": "Transferir",
+        "DESC_TRANSFER": "Para um contato ou conta bancária",
+        "BUTTON_STATEMENT": "Extrato",
+        "DESC_STATEMENT": "Linha do tempo de pagamentos",
+        "BUTTON_PROFILE": "Perfil",
+        "DESC_PROFILE": "Informações da sua conta",
+        "BUTTON_WALLET": "Cartões",
+        "DESC_WALLET": "Selecione ou solicite cartões",
+        "BUTTON_RECHARGE": "Recarregar Celular",
+        "DESC_RECHARGE": "Crédito no celular",
+        "DESC_PIX": "Pagamento Instantâneo",
+        "BUTTON_PIX": "PIX",
+        "BUTTON_TIMELINE": "Timeline",
+        "DESC_TIMELINE": "Acompanhe tudo da sua conta"
+    },
+    "COMPONENTE_MODAL": {
+        "BUTTON_OK": "OK, ENTENDI",
+        "MODAL_TERMS_AND_CONDITIONS": "Para finalizar seu cadastro precisamos que você aceite nossos Termos e Condições.",
+        "COMPLETE_LATER": "Você pode completar esta parte do seu cadastro depois, na aba Perfil.",
+        "ADDRESS_NOT_FOUND": "Ops… não conseguimos localizar seu endereço. Insira manualmente à seguir.",
+        "INSUFFICIENT_BALANCE": "Sentimos muito! Parece que você não tem saldo suficiente para esta transição."
+    },
+    "ONBOARDING": {
+        "LOADING": "Finalizando onboarding",
+        "SCREEN": {
+            "DEFAULT_TITLE": "Onboarding",
+            "FOOTER": {
+                "DEFAULT_LABEL": "Next",
+                "SKIP_LABEL": "Skip step",
+                "PARTIAL_FINISH_CONTINUE_LABEL": "Continue",
+                "PARTIAL_FINISH_LEAVE_LABEL": "Go to my digital account",
+                "FINISH_LABEL": "Finish"
+            }
+        }
+    },
+    "ONBOARDING_PASSWORD": {
+        "REQUIREMENT_LETTER": "At least one letter.",
+        "REQUIREMENT_NUMBER": "At least a number.",
+        "REQUIREMENT_MINLENGTH": "Minimum 6 characters."
+    },
+    "PHONE_INPUT": {
+        "default": "Type your phone",
+        "label": "What your phone's number?",
+        "placeholder": "(XX) XXXXX-XXXX",
+        "error": "Phone's number invalid",
+        "error_default": "Invalid phone"
+    },
+    "NUMBER_FORMAT": {
+        "PRECISION": 2,
+        "DELIMITER": ".",
+        "SEPARATOR": ",",
+        "FORMAT": "R$"
+    },
+    "TAXIDINPUT": {
+        "LABEL": "Tax Id",
+        "ERRORS": {
+            "INVALID": "Invalid Tax Id"
+        }
+    },
+    "EMAILINPUT": {
+        "LABEL": "E-mail",
+        "ERRORS": {
+            "INVALID": "Invalid E-mail"
+        }
+    },
+    "NAMEINPUT": {
+        "LABEL": "Name",
+        "ERRORS": {
+            "INCOMPLETE": "Incomplete name"
+        }
+    },
+    "DATEPICKER": {
+        "BIRTHDATE": "Birthdate",
+        "TITLE_IOS": "Pick a date",
+        "CONFIRM_TEXT_IOS": "Confirm",
+        "CANCEL_TEXT_IOS": "Cancel"
+    },
+    "SLIDERS": {
+        "SLIDERHOME": {
+            "SLIDE1": {
+                "TITLE": "Welcome!",
+                "SUBTITLE": "O aplicativo onde você recebe de volta até 5% do valor dos seus pedidos."
+            },
+            "SLIDE2": {
+                "TITLE": "Sign up for your digital account",
+                "SUBTITLE": "Um novo jeito de receber, realizar pagamentos e ganhar benefícios!"
+            },
+            "SLIDE3": {
+                "TITLE": "Organize yourself!",
+                "SUBTITLE": "Todos os seus recebíveis em boleto, ficam centralizados aqui e fáceis de gerenciar."
+            },
+            "SLIDE4": {
+                "TITLE": "Organize yourself!",
+                "SUBTITLE": "Todos os seus recebíveis em boleto, ficam centralizados aqui e fáceis de gerenciar."
+            }
+        }
+    },
+    "QRCODE": {
+        "CENTER_QRCODE": "Centralize o QR Code a ser lido."
+    },
+    "GENDER": {
+        "HE": "He",
+        "SHE": "She",
+        "OTHER": "Others"
+    },
+    "WEBVIEW": {
+        "AGREEMENT_MESSAGE": "Declaro que li e aceito",
+        "BUTTONS": {
+            "RELOAD": "Recarregar"
+        },
+        "ERRORS": {
+            "LOAD": "Ops...\nO conteúdo da página não carregou.\nTente novamente."
+        }
+    },
+    "ERRORS": {
+        "API": {
+            "0": "Error when connecting to the server. Check your connection",
+            "1": "Missing one or more required parameters.",
+            "2": "Innapropriate use of one or more parameters.",
+            "3": "Recipient not found.",
+            "4": "Innapropriate use of credit card token.",
+            "5": "Invalid credit card token.",
+            "6": "Account not found.",
+            "7": "Account holder not found.",
+            "9": "Forbidden. It's not allowed to alter the TaxIdentifier.",
+            "10": "Transaction cannot be canceled.",
+            "11": "Unauthorized action.",
+            "12": "Invalid attribute.",
+            "13": "Transaction not found.",
+            "14": "Invalid taxId.",
+            "15": "Forbidden. Requester can't access %s data..",
+            "16": "Insufficient funds.",
+            "17": "Unsupported transaction type.",
+            "18": "All Recipients must be of the same Account Holder.",
+            "19": "The sum of the recipient amounts cannot be greater than the totalAmount.",
+            "20": "Bad credentials.",
+            "23": "Transaction not found.",
+            "28": "Invalid expiration date.",
+            "29": "Action not allowed for closed account(s).",
+            "30": "Transaction already canceled.",
+            "41": "Invalid Password Requirements.",
+            "42": "Email already exists.",
+            "43": "MobilePhone already exists.",
+            "44": "TaxId already exists.",
+            "45": "Format invalid in one or more parameters.",
+            "46": "An error occurred while generating account.",
+            "47": "Username already exists.",
+            "48": "An error occurred during the upload.",
+            "49": "Invalid format file.",
+            "50": "Failure when retrieving bank list.",
+            "51": "Invalid activation code.",
+            "53": "S3 did not return the uploaded document url.",
+            "55": "AccountHolder does not have account.",
+            "57": "Failure image download.",
+            "58": "Picture profile is not defined.",
+            "59": "Url S3 profile picture is incorrect.",
+            "60": "An error occurred while update account.",
+            "61": "Account holder is different from the informed.",
+            "62": "Account Holder does not have the taxId informed.",
+            "63": "Document profile is not defined.",
+            "64": "Url S3 document profile is incorrect.",
+            "65": "Phone number not supported.",
+            "66": "Country not supported.",
+            "67": "Only one recipient is allowed.",
+            "68": "Account %s has not been fully created yet.",
+            "69": "Card BPP not found.",
+            "70": "Value must be greater than zero.",
+            "71": "Fail to reload card.",
+            "72": "Fail to connect BPP server.",
+            "73": "Unable to reverse the debit transaction.",
+            "74": "Error to process withdraw transaction.",
+            "75": "Rejected Payment.",
+            "76": "Transaction cannot be settled.",
+            "77": "Fail to request BPP card.",
+            "78": "Account already has Bpp Card.",
+            "79": "Disabled payment type.",
+            "80": "Transaction cannot be rejected.",
+            "81": "Email not found.",
+            "82": "Invalid address.",
+            "83": "Invalid signature.",
+            "84": "Unregistered device.",
+            "85": "The destination account tax identifier must be the same as in the origin account.",
+            "86": "Invalid transaction state.",
+            "87": "phone number does not match with branch/account data.",
+            "88": "person does not match with branch/account titular.",
+            "89": "Invalid credit account.",
+            "90": "Daily limit exceeded.",
+            "91": "Value limit exceeded.",
+            "92": "Max validation attempts exceeded.",
+            "93": "Credit card not found..",
+            "95": "3DS Error.",
+            "96": "Error manipulating Authorized Transaction.",
+            "97": "Unexpected error.",
+            "98": "Unexpected error.",
+            "99": "Unexpected error.",
+            "100": "Invalid credit card.",
+            "101": "Credit card tokenization failed.",
+            "102": "Invalid account status: %s.",
+            "103": "Invalid installments value.",
+            "104": "Invalid use of installments.",
+            "105": "Card Withdraw not enabled for recipient.",
+            "111": "Operadora fora do ar, tente novamente após alguns minutos",
+            "120": "Boleto payment has been rejected by DDA.",
+            "121": "Transaction in unsupported status.",
+            "122": "Maximum Boleto payment date and/or time limit exceeded.",
+            "123": "Maximum Utilities payment date and/or time limit exceeded.",
+            "141": "Incorrect transaction status.",
+            "151": "Transaction already exists.",
+            "161": "Invalid amount.",
+            "191": "CVV required.",
+            "201": "Invalid card number or brand.",
+            "202": "Invalid attempt.",
+            "203": "Credit card validation is disabled.",
+            "204": "Credit card can't be validated.",
+            "301": "Credit card is blocked.",
+            "302": "Installments not supported.",
+            "303": "Invalid CVV.",
+            "304": "Min value required.",
+            "305": "Min value required for installments.",
+            "306": "Operation not supported.",
+            "307": "Transaction was cancelled.",
+            "308": "There is no credit card configuration for the card bin.",
+            "309": "Operation is not valid for this card.",
+            "310": "Credit card gateway communication error.",
+            "311": "Card not issued by platform.",
+            "314": "Usuário não encontrado.",
+            "491": "Unable to send SMS.",
+            "691": "An account with the given phone number already exists.",
+            "701": "Invalid digital check string.",
+            "702": "Invalid digital check value.",
+            "704": "Digital check already processed.",
+            "705": "Invalid signature.",
+            "706": "Digital check value (%s) is not the same as the expected one (%s).",
+            "708": "Missing a required parameter.",
+            "711": "Digital check has expired.",
+            "771": "Unknown card.",
+            "801": "Missing history code.",
+            "820": "The period between dates is exceeded.",
+            "960": "Account holder registration data is incomplete.",
+            "981": "Internal error when processing the transaction with the acquirer",
+            "997": "Você ainda não possui um endereço principal cadastrado. Cadastre agora para continuar a transação.",
+            "998": "Falha ao criar o Token.",
+            "999": "Você ainda não possui um token cadastrado. Cadastre agora para continuar a transação.",
+            "1000": "Could not recover password at this time. Try again!",
+            "1002": "Could not generate a new password at this time. Try again!",
+            "1003": "Could not login at this time. Try again later!"
+        },
+        "INPUTS": {
+            "EMPTY": "Obrigatório",
+            "SHORT": "Muito curto",
+            "MIN_VALUE": "Valor deve ser maior que 0"
+        },
+        "UNEXPECTED": "Algo inesperado ocorreu.",
+        "WARN": {
+            "0": "Tem certeza que deseja deslogar da sua conta?",
+            "1": "Você ainda não possui cartões cadastrados. Deseja adicionar um agora?",
+            "2": "Tem certeza que deseja excluir esse cartão?",
+            "3": "Erro ao carregar as informações do boleto. Tente novamente.",
+            "4": "Você ainda não possui cartões cadastrados."
+        },
+        "PASSWORD": {
+            "MUST_BE_DIFFERENT_FROM_CURRENT": "A nova senha deve ser diferente da senha atual",
+            "MUST_BE_EQUALS": "Nova senha e confirmação de senha devem ser iguais"
+        },
+        "IBK": {
+            "BN-046": "Usuário e/ou senha inválido(s)",
+            "MTR-003": "Erro interno no processamento da requisição",
+            "MTR-010": "Usuário e/ou senha não informado(s)",
+            "unauthorized": "Faça login para acessar o sistema.",
+            "NotEmpty": "Campos usuário e/ou senha não pode(m) estar vazio(s)."
+        }
+    },
+    "MODAL": {
+        "ERROR": {
+            "FIRST_BUTTON": "Ok"
+        }
+    },
+    "LOGINPAGE": {
+        "BTN_LOGIN": "Entrar",
+        "CHANGE_ACCOUNT": "Trocar usuário",
+        "FORGOT_PASSWORD": "Esqueci minha senha",
+        "LOADING": "Fazendo login",
+        "PASSWORD": "Senha",
+        "INPUT_ACCOUNT": "Conta",
+        "SAVE_LOGIN": "Permanecer logado",
+        "WELCOME": "Seja bem vindo!",
+        "WELCOME_AGAIN": "Bem vindo de volta!",
+        "USER": "User",
+        "LOGIN_LABEL": "Login",
+        "FORGOT_PASS_LABEL": "Esqueci minha senha"
+    },
+    "FORGOTPASS": {
+        "SEND_EMAIL": "Enviar E-mail",
+        "BACKLOGIN": "Voltar para o login",
+        "PASSWORD": "Senha atual",
+        "CONFIRMPASS": "Confirmar senha",
+        "OLD_PASSWORD": "Nova senha",
+        "LABEL_INFO": "Informe o e-mail cadastrado",
+        "SENDING": "Enviado solicitação",
+        "EMAIL_SENT": "Uma nova senha foi enviada para o e-mail cadastrado!"
+    },
+    "CHANGEPASS": {
+        "ERROR": "Não foi possível gerar uma nova senha no momento. Tente novamente!",
+        "SUCCESS": "Sua senha foi alterada!",
+        "BACK_HOME": "Voltar para Home",
+        "MUST_CHANGE_PASSWORD": "Atenção! Você precisa alterar sua senha para entrar",
+        "CHANGE_PASSWORD": "Alterar Senha"
+    },
+    "PASSWORD": {
+        "PASS_REQUIREMENT": "Requisitos para criar sua senha:",
+        "WELL_DONE": "Boa! Senha segura e validada com sucesso!",
+        "CONFIRM_PASS_MESSAGE": "Nova senha e confirmação de senha devem ser iguais",
+        "PASS_MESSAGE": "A novasenha deve ser diferente da senha atual"
+    },
+    "CARD": {
+        "NAME": "Owner Name",
+        "CHOOSE_THIS": "PAY WITH THIS CARD",
+        "CVV": "CVV",
+        "EXPIRATION_DATE": "Data de validade"
+    },
+    "PAYMENT": {
+        "BUTTON_HIDE_TUTORIAL": "Não ver mais esse tutorial",
+        "BUTTON_FINISH": "Ok, obrigado",
+        "BUTTON_NEXT": "Próximo",
+        "CARDS": {
+            "QRCODE_BALANCE": "Pagar com QR Code",
+            "DESCRIPTION_QRCODE_BALANCE": "Usando saldo ou cartões salvos.",
+            "BOLETO": "Pagar um boleto",
+            "DESCRIPTION_BOLETO": "Sua conta de luz, água, etc..."
+        },
+        "CREDIT_CARD": "Cartão de crédito",
+        "INPUT_VALUE": "Informe o valor a ser pago",
+        "LAST_CARD_USED": "Último cartão salvo utilizado",
+        "PAY_BY_CARD": "Pagar com cartão",
+        "PAYMENT_METHOD": "Método de pagamento",
+        "PAY_WITH_BALANCE": "Pagar com saldo na carteira",
+        "QR_AVAILABLE": "QR disponível",
+        "QR_IN_AMOUNT_OF": "Um QR Code será gerado na quantia de",
+        "TITLE": "Pagar",
+        "TITLE_LOADING": "Gerando QR Code",
+        "TUTORIAL": {
+            "TITLE": "Hora de pagar com QR? \n Siga estes passos pra dar tudo certo:",
+            "IMAGE1": "Insira o valor desejado para gerar o QR Code.",
+            "IMAGE2": "Para pagar, você pode usar seu saldo na carteira ou seus cartões salvos.",
+            "IMAGE3": "O vendedor lê o QR Code com o dispositivo dele.",
+            "IMAGE4": "Então ele recebe a confirmação do pagamento e pronto!"
+        },
+        "UNTIL": "até",
+        "WALLET_BALANCE": "Saldo na carteira",
+        "PAYMENT_BILL": {
+            "LOADING": "Finalizando o pagamento",
+            "CLIPBOARDCODE": "Parece que você copiou um código de uma conta. Clique aqui para utilizá-lo.",
+            "CODEINPUT": {
+                "TITLE": "Digite os números do seu boleto",
+                "ERROR_BLOCK1": "Ops.. parece que algo não está certo no bloco 1.",
+                "ERROR_BLOCK2": "Ops.. parece que algo não está certo no bloco 2.",
+                "ERROR_BLOCK3": "Ops.. parece que algo não está certo no bloco 3.",
+                "ERROR_BLOCK4": "Ops.. parece que algo não está certo no bloco 4.",
+                "ERROR_BLOCK5": "Ops.. parece que algo não está certo no bloco 4.",
+                "ERROR_BLOCKS": "Ops.. parece que algo não está certo no bloco 4 ou 5."
+            },
+            "CODEINFO": {
+                "CODE": "Código",
+                "TITLE": "Confirma pra gente as informações.",
+                "TOTAL_AMOUNT": "Total a pagar",
+                "WALLET_METHOD": "Método de pagamento - Saldo na carteira",
+                "PAY_BUTTON": "Pagar",
+                "DOCUMENT_AMOUNT": "Valor do documento",
+                "DOCUMENT_DATA": "Dados do documento",
+                "DISCOUNTS": "(-) Descontos",
+                "BENEFICIARY_DATA": "Dados do beneficiário",
+                "BENEFICIARY_NAME": "Nome/Razão social",
+                "TAXID": "CPF/CNPJ",
+                "BANK": "Banco",
+                "DUE_DATE": "Vencimento",
+                "INTEREST": "(+) Multa/Mora",
+                "OTHER_ADDS": "(+) Outros acréscimos",
+                "OTHER_DEDUCTIONS": "(-) Outras Deduções",
+                "ERROR_NEGATIVE": "Erro Valor Negativo",
+                "ERROR_MINIMUM": "Erro Valor Mínimo",
+                "ERROR_MAXIMUM": "Erro Valor Máximo",
+                "MINVALUE": "Valor mínimo",
+                "MAXVALUE": "Valor máximo"
+            },
+            "SUCCESS": {
+                "TITLE_SUCCESS": "Perfeito!",
+                "PAYMENT_SUCCESS": "Seu pagamento foi processado.",
+                "PAYMENT_METHOD": "Método de pagamento",
+                "WALLET_BALANCE": "Saldo na carteira",
+                "PAY_ANOTHER": "Pagar outra",
+                "PROCESSED_DATA": "Processado em",
+                "BUTTON_CLOSE": "Página inicial"
+            }
+        }
+    },
+    "REGISTER_PIN": {
+        "REGISTER": "Register",
+        "TITLE": "Token",
+        "TITLE_INPUT": "Agora crie um Token para deixar sua carteira digital mais segura.",
+        "CONFIRM_PIN": {
+            "TITLE_INPUT": "Vamos confirmar o Token escolhido?",
+            "ERROR_CONFIRM_PIN": "Os campos Token não conferem.",
+            "INVALID_PIN": "PIN incorreto"
+        },
+        "ENTER_PASSWORD": {
+            "TITLE_INPUT": "Agora digite a sua senha de acesso ao app.",
+            "BUTTON_FINISH": "Salvar"
+        },
+        "SUCCESS": "Pin criado com sucesso!"
+    },
+    "CONTACTPAGE": {
+        "BTNINVITE": "TO INVITE",
+        "BTNREGISTERED": "REGISTERED"
+    },
+    "STATEMENT_ITEM": {
+        "TRANSACTION": {
+            "CREDIT": "Receipt",
+            "DEBIT": "Payment"
+        }
+    },
+    "STATEMENT_FILTERS": {
+        "IN": "Entradas",
+        "OUT": "Saídas"
+    },
+    "BARCODE": {
+        "TITLE_LOADING": "Carregando informações",
+        "INSTRUCTIONS": "Encaixe o código de barras no retângulo",
+        "TYPE_CODE": "DIGITAR CÓDIGO DO BOLETO"
+    },
+    "RECEIVE": {
+        "BUTTON_CLOSE": "Página inicial",
+        "BUTTON_HIDE_TUTORIAL": "Não ver mais esse tutorial",
+        "BUTTON_NEXT": "Próximo",
+        "CARDS": {
+            "BALANCE": "Saldo em Conta",
+            "DESCRIPTION_BALANCE": "Usando seu saldo em conta",
+            "CREDIT_CARD": "Cartão de Crédito",
+            "DESCRIPTION_CREDIT_CARD": "Usando seus cartões salvos",
+            "TITLE": "Informe a Forma de Pagamento"
+        },
+        "INPUT_VALUE": {
+            "TITLE": "Digite o valor a ser recebido"
+        },
+        "LOADING": "Recebendo pagamento",
+        "NUMBER_OF_INSTALLMENTS": "Informe o Nº de Parcelas",
+        "PAID_BY_CLIENT": "Pago pelo cliente",
+        "PAYMENT_METHOD": "Método de pagamento",
+        "TITLE": "Receber",
+        "TITLE_SUCCESS": "Perfeito!",
+        "TUTORIAL": {
+            "TITLE": "Hora de receber com QR? \n Siga estes passos pra dar tudo certo:",
+            "IMAGE1": "Informe quem irá pagar o valor da transição.",
+            "IMAGE2": "Aguarde enquanto ele gera o QR Code.",
+            "IMAGE3": "Você precisará ler este código com a câmera do seu celular.",
+            "IMAGE4": "Você receberá a confirmação do pagamento e pronto!"
+        },
+        "RECEIVE_ANOTHER": "Receber outro",
+        "RECEIVE_DATA": "Recebido em",
+        "RECEIVE_SUCCESS": "Pagamento recebido com sucesso.",
+        "WALLET_BALANCE": "Saldo na carteira"
+    },
+    "MAIN_SCREEN": {
+        "CANCEL": "Cancelar",
+        "CHECK_STATEMENT": "Check out your statement Timeline updated in",
+        "LOADING": "Carregando..."
+    },
+    "STATEMENT_SCREEN": {
+        "AVAILABLE_BALANCE_IN": "Available balance in",
+        "LOADING": "Loading...",
+        "NO_RESULTS": "No results",
+        "SCREEN_TITLE": "Statement",
+        "SEARCH_LABEL": "Search for description or value",
+        "REQUEST_ERROR": "Error"
+    },
+    "TRANSFER": {
+        "BUTTONS": {
+            "CONTACT": "Transferir para contato",
+            "NUMBER": "Transferir para número"
+        },
+        "ERROR": {
+            "INSUFFICIENT_BALANCE": "Ops...\nVocê não possui saldo suficiente para realizar essa transferência."
+        },
+        "HEADER_TITLE": "Transferência",
+        "LABELS": {
+            "COMPLETED_TRANSFER": "Sua transferência foi processada.",
+            "CONFIRM_TRANSFER": "Você irá transferir a quantia de",
+            "INPUT_CURRENCY": "Insira o valor que será transferido",
+            "LOADING": "Transferindo...",
+            "PAYMENT_BALANCE": "Saldo na carteira",
+            "PAYMENT_METHOD": "Método de pagamento",
+            "SUCCESSFUL_TRANSFER": "Perfeito!",
+            "TAXES": "*sujeito a taxas",
+            "CARD_BALANCE": "Saldo do cartão"
+        },
+        "TRANSFER_TO_BANK_ACCOUNT": {
+            "ACCOUNT_TYPE": {
+                "CC": "Conta Corrente",
+                "IP": "Instituição de Pagamento",
+                "POUPANCA": "Poupança"
+            },
+            "BUTTONS": {
+                "BANK_ACCOUNT": "Outra Conta"
+            },
+            "LABELS": {
+                "ACCOUNT_NUMBER": "Agora, a conta sem dígito.",
+                "ACCOUNT_TYPE": "Selecione o tipo de conta",
+                "BANK_SELECTION": "E o banco?",
+                "BRANCH_NUMBER": "Qual a agência sem dígito?",
+                "DOCUMENT_NUMBER": "Qual o número do documento?",
+                "LOADING": "Transferindo...",
+                "RECIPIENT_NAME": "Qual o nome do favorecido?",
+                "SEARCH_INPUT_BANK_PLACEHOLDER": "Procure pelo banco...",
+                "SEARCH_INPUT_NAME_PLACEHOLDER": "Procure pelo nome...",
+                "ACCOUNT_SEPARATED": "Conta",
+                "DIGIT_SEPARATED": "Dígito"
+            }
+        },
+        "OPTIONS": {
+            "COMPANY_ACCOUNT": {
+                "DESCRIPTION": "À partir de contato telefônico...",
+                "TITLE": "Transferir para conta Matera"
+            },
+            "BANK_ACCOUNT": {
+                "DESCRIPTION": "Conta bancária ou instituição de pagamento...",
+                "TITLE": "Transferir para outra conta"
+            },
+            "ACCOUNT_TO_CARD": {
+                "DESCRIPTION": "Transferir saldo da conta de pagamento para o cartão",
+                "TITLE": "Transferir para cartão"
+            },
+            "CARD_TO_ACCOUNT": {
+                "DESCRIPTION": "Transferir saldo do cartão para conta de pagamento",
+                "TITLE": "Transferir para conta"
+            }
+        },
+        "TRANSFER_CARD_TO_ACCOUNT": {
+            "HEADER_TITLE": "Transferir para Conta"
+        },
+        "TRANSFER_ACCOUNT_TO_CARD": {
+            "HEADER_TITLE": "Transferir para Cartão"
+        }
+    },
+    "BALANCE": {
+        "AVAILABLE_BALANCE": "Saldo disponível em"
+    },
+    "CONTACT": {
+        "API_ERROR": "Erro ao verificar se seus contatos possuem conta.",
+        "EMPTY_LIST": "Nenhum contato possui uma conta.",
+        "LIST_ERROR": "Erro ao carregar a lista de contatos.",
+        "LOADING": "Carregando os contatos...",
+        "TITLE": "Contatos",
+        "SEARCH": "Procure pelo contato..."
+    },
+    "BUTTONS": {
+        "CONFIRM": "Confirmar",
+        "FINISH": "Ok, obrigado",
+        "NEXT": "Próximo",
+        "SHARE": "Compartilhar",
+        "TRANSFER": "Transferir",
+        "CANCEL": "Cancel",
+        "SAVE_QR": "Salvar QR Code"
+    },
+    "PERMISSIONS": {
+        "CONTACTS": "O aplicativo gostaria de ver seus contatos.",
+        "FILES": "O aplicativo gostaria de acessar seus arquivos.",
+        "FILES_ERROR": "Ocorreu um erro ao pedir permissão para acessar os arquivos do dispositivo.",
+        "FILES_DENIED": "Permissão para acessar os arquivos negada.",
+        "PERMISSIONS_ERROR": "Erro ao checar permissões",
+        "SETTINGS_ERROR": "As configurações não podem ser abertas.",
+        "UNAVAILABLE": "Essa funcionalidade não está disponível nesse dispositivo."
+    },
+    "VERSION": "Version",
+    "PROFILE": {
+        "BUTTON_LOGOUT": "Sair da conta",
+        "CONFIRM_LOGOUT": "Sim, Deslogar",
+        "CANCEL_LOGOUT": "Cancelar",
+        "LABEL_EMAIL": "E-mail",
+        "LABEL_USER": "Usuário",
+        "TITLE": "Perfil",
+        "LOADING": "Carregando..."
+    },
+    "BANK_ACCOUNTS_LIST": {
+        "ITEM": {
+            "LABELS": {
+                "ACCOUNT_NUMBER": "Conta",
+                "BRANCH_NUMBER": "Agência"
+            }
+        },
+        "LABELS": {
+            "EMPTY_LIST": "Não foi possível carregar a lista de contas bancárias recentes."
+        }
+    },
+    "WALLET": {
+        "ADD_CARD": "Cadastrar cartão",
+        "ADD_ANOTHER_CARD": "Cadastrar outro",
+        "BUTTON_CHOOSE_ANOTHER": "Usar outro",
+        "BUTTON_FINISH": "Ok, obrigado",
+        "BUTTON_NEXT": "Confirmar",
+        "CARDS_NAVIGATION": {
+            "MY_CARDS": "Meus cartões",
+            "DESCRIPTION_MY_CARDS": "Lista de cartões adicionados",
+            "ADD_CARD": "Adicionar um cartão",
+            "DESCRIPTION_ADD_CARD": "Adicione seu cartão para facilitar seus pagamentos",
+            "REQUEST_PREPAID_CARD": "Solicitar cartão pré-pago",
+            "DESCRIPTION_REQUEST_PREPAID_CARD": "Solicite um cartão pré-pago ou um gift card"
+        },
+        "DELETE_CARD_SUCCESS": "Cartão excluído com sucesso.",
+        "EDIT": "Editar",
+        "LOADING": "Carregando...",
+        "REGISTER": "Sim, adicionar",
+        "REMOVE_CARD": "Excluir cartão",
+        "REMOVE_CARD_CONFIRM": "Sim, excluir",
+        "SAVE_CARD_SUCCESS": "Cartão cadastrado com sucesso.",
+        "TITLE": "Carteira",
+        "TITLE_COMPONENT": "Preencha os dados do seu cartão.",
+        "TITLE_ADDRESS_COMPONENT": "Agora escolha o endereço de cobrança.",
+        "WARNING_ADDRESS_EMPTY": "Ops… você não tem um endereço cadastrado.",
+        "WARNING_CARDS_EMPTY": "Ops… você não tem um cartão cadastrado."
+    },
+    "DEPOSIT": {
+        "DEPOSIT_BY_BOLETO": {
+            "LABELS": {
+                "BOLETO_NOTIFICATION_DESCRIPTION": "Baixando boleto...",
+                "COPIED_TYPEABLE_LINE": "Linha digitável copiada com sucesso!",
+                "DOWNLOAD_ERROR": "Ocorreu um erro ao baixar o boleto.",
+                "DOWNLOAD_LABEL": "Baixar",
+                "DOWNLOAD_COMPLETED": "Boleto baixado com sucesso.",
+                "INPUT_CURRENCY": "Insira o valor que será o boleto.",
+                "GENERATED_BOLETO_SUCCESS": "Boleto gerado com sucesso!",
+                "GENERATED_BOLETO_WARNING": "Após o pagamento os boletos tem um prazo mínimo de 3 dias para serem compensados.",
+                "LOADING": "Gerando boleto..."
+            },
+            "ZOOM_TUTORIAL": {
+                "DESCRIPTION_1": "Você pode dar zoom",
+                "DESCRIPTION_2": "apróximando ou afastando",
+                "DESCRIPTION_3": "os dedos e também pelos",
+                "DESCRIPTION_4": "botões de + e -."
+            }
+        },
+        "LOADING": "Carregando...",
+        "HEADER_TITLE": "Depositar",
+        "OPTIONS": {
+            "BOLETO": {
+                "DESCRIPTION": "Gere um boleto para você pagar...",
+                "TITLE": "Depositar por Boleto"
+            },
+            "TRANSFER": {
+                "DESCRIPTION": "Veja os dados para a transferência bancária...",
+                "TITLE": "Depositar via Transferência bancária"
+            }
+        },
+        "TITLE": "Deposit",
+        "DEPOSIT_BY_TRANSFER": {
+            "LABELS": {
+                "ACCOUNT": "Account",
+                "BRANCH": "Branch",
+                "CNPJ": "CNPJ",
+                "BANK": "Bank",
+                "ACCOUNT_TYPE": "Account type",
+                "METHOD": "Method",
+                "INSTRUCTIONS": "Certifique-se de que a conta de origem ou deposito no caixa está constando a sua identificação (CPF)!",
+                "CLIPBOARDCODE": "Copied to Clipboard!",
+                "ALERT": "Só serão aceitos depósitos feitos de contas com o mesmo CPF do titular desta conta."
+            }
+        }
+    },
+    "BOLETO_INFORMATION": {
+        "BUTTONS": {
+            "COPY_DIGITABLE_LINE": "Copiar Linha Digitável",
+            "OPEN_PDF": "Abrir Pdf"
+        },
+        "LABELS": {
+            "DUE_DATE": "Vencimento em",
+            "VIEW_PDF": "Toque no boleto para visualizar o PDF"
+        }
+    },
+    "FILES": {
+        "TITLE": "Arquivos"
+    },
+    "CELL_RECHARGE": {
+        "TITLE": "Recarregar Celular",
+        "CHOOSE_NUMBER_TITLE": "Escolha o número de telefone que deseja fazer a recarga.",
+        "RECHARGE_THIS_BTN": "Recarregar este telefone",
+        "CHOOSE_OTHER_BTN": "Adicionar outro",
+        "INPUT_NUMBER_TITLE": "Digite o número de telefone.",
+        "INPUT_NUMBER_BTN": "Confirmar",
+        "SEARCH_INPUT_PROVIDER_PLACEHOLDER": "Procure pela operadora...",
+        "CHOOSE_PROVIDER_HEADER": "Qual a operadora?",
+        "NEXT_BTN": "Próximo",
+        "PAYMENT_METHOD": "Método de pagamento",
+        "WALLET_BALANCE": "Saldo na carteira",
+        "OPERATORS_LOADING": "Carregando operadoras...",
+        "REQUEST_ERROR": "Erro ao obter operadoras",
+        "NO_RESULTS": "Não há operadoras a mostrar para o termo buscado",
+        "CHOOSE_VALUE_TITLE": "Selecione o valor da recarga.",
+        "CHOOSE_PAYMENT_TYPE_TITLE": "Confirme o valor da recarga e o número do telefone:",
+        "WALLET_PAY_BTN": "Usar saldo em carteira",
+        "WALLET_METHOD": "Método de pagamento - Saldo na carteira",
+        "TITLE_LOADING": "Realizando a recarga",
+        "TITLE_SUCCESS": "Perfeito!",
+        "RECHARGE_SUCCESS": "Sua recarga de celular foi processada.",
+        "TRANSACTION": "Transação: ",
+        "RECHARGE_ANOTHER": "Fazer outra recarga",
+        "BUTTON_CLOSE": "Página inicial"
+    },
+    "IBK": {
+        "LOGINPAGE": {
+            "WELCOME": "Welcome to",
+            "INFO": "Access your account by inputing your username and password",
+            "TITLE_LOGIN_FORM": "Acessar via conta",
+            "INFO_BOTTOM": "Ainda não tem conta?",
+            "TEXT_LINK": "Clique e abra já sua conta.",
+            "WARNING_PASS": "Insira a senha",
+            "WARNING_USER": "Insira o usuário",
+            "LOGIN_BUTTON": "Acessar Conta",
+            "FORGET_PASS_BUTTON": "Esqueci minha senha",
+            "REQUIRED_FIELD": "Required field",
+            "ACCESS_ACCOUNT": "Access Account",
+            "FORGOT_PASSWORD": "Forgot my password"
+        },
+        "IBK_RECEIPT": {
+            "TITLE": "Comprovantes",
+            "FILTER": {
+                "TITLE": "Filtro",
+                "FILTER_TYPE": "Tipo de Filtragem",
+                "OPERATION_TYPE": "Tipo de Operação",
+                "FILTER_BUTTON": "Filtrar",
+                "SELECT": {
+                    "FIRST": "7 dias anteriores",
+                    "SECOND": "15 dias anteriores",
+                    "THIRD": "30 dias anteriores",
+                    "FOURTH": "Por período",
+                    "FIFTH": "Transferência",
+                    "SIXTH": "Pagamentos",
+                    "SEVENTH": "Depósitos",
+                    "EIGHTH": "Todos"
+                }
+            },
+            "TABLE": {
+                "TABLE_HEADER": {
+                    "DATE": "Data",
+                    "DESCRIPTION": "Descrição",
+                    "VALUE": "Valor R$"
+                },
+                "SHOW_RECEIPT_ITEM": "Ver Comprovante",
+                "PAGINATION_LABEL": "Mostrar",
+                "MODAL": {
+                    "DOWNLOAD": "Download",
+                    "SHARE": "Compartilhar",
+                    "NOT_NOW": "Agora Não",
+                    "ASK_SHARE": "Deseja Compartilhar ?",
+                    "INFO": "Para compartilhar o comprovante digite o email abaixo",
+                    "EMAIL_LABEL": "exemplo@exemplo.com"
+                }
+            },
+            "SHARED_SUCCESS": {
+                "INFO": "Nós enviamos o comprovante de resgate de investimentos para o email abaixo",
+                "BACK": "Voltar"
+            }
+        },
+        "SIDEPANEL": {
+            "MENU_ITEM_START_TITLE": "Start",
+            "MENU_ITEM_START_SECONDARY_TEXT": "Quick Access",
+            "MENU_ITEM_CONSULTATION_TITLE": "Consultation",
+            "MENU_ITEM_CONSULTATION_SECONDARY_TEXT": "Visualize, filter and manage",
+            "MENU_ITEM_CONSULTATION_SUBOPTION_RECEIPTS": "Receipts",
+            "MENU_ITEM_CONSULTATION_SUBOPTION_SCHEDULES": "Schedules",
+            "MENU_ITEM_CONSULTATION_SUBOPTION_STATEMENTS": "Statements",
+            "MENU_ITEM_EXIT": "Exit"
+        },
+        "MAIN": {
+            "CONTEXT_APPBAR_IDENTIFIER": "CPF/CNPJ",
+            "CONTEXT_APPBAR_AGENCY": "Agency",
+            "CONTEXT_APPBAR_ACCOUNT": "Account",
+            "CONTEXTS_DROPDOWN_SWTICH_ACCOUNT": "Switch Account",
+            "CONTEXTS_DROPDOWN_AGENCY_ABBREVIATION": "Ag",
+            "CONTEXTS_DROPDOWN_ACCOUNT_ABBREVIATION": "Acc"
+        }
+    },
+    "SETTINGS": {
+        "LOADING": "Carregando",
+        "TITLE": "Confirmação OTP",
+        "GETTING_NUMBER": {
+            "IDENTIFYING": "Estamos identificando o número de celular cadastrado.",
+            "SENDING_SMS": "Enviaremos um código via SMS para confirmar a criação de Token"
+        },
+        "CONFIRM_CODE": "Conta qual é o código de verificação que te enviamos."
+    },
+    "SHARE": {
+        "ERROR": "Não foi possível compartilhar o arquivo, verifique-o e tente novamente.",
+        "SUCCESS": "Arquivo compartilhado com sucesso!"
+    },
+    "SAVEFILE": {
+        "ERROR": "Não foi possível salvar o arquivo, verifique-o e tente novamente.",
+        "SUCCESS": "Arquivo salvo com sucesso na pasta de downloads!",
+        "SUCCESS_IOS": "Arquivo salvo com sucesso na pasta de documentos!"
+    },
+    "UPLOAD": {
+        "ERROR": "Não foi possível fazer o upload da imagem. Por favor, tente novamente.",
+        "SUCCESS": "Upload da imagem feito com sucesso."
+    },
+    "MAIN_VR": {
+        "BALANCE": "Saldo da conta",
+        "CARD_BALANCE": "Saldo do cartão VR",
+        "BALANCE_ERROR": "Erro ao obter saldo",
+        "AVAILABLE_BALANCE_IN": "Atualizado em",
+        "AVAILABLE_CARD_BALANCE_IN": "Atualizado em"
+    },
+    "CARD_STATEMENT_SCREEN": {
+        "SCREEN_TITLE": "Cartões"
+    },
+    "PIX": {
+        "HEADER_TITLE": "Pagamento Instantâneo",
+        "NEXT_BTN": "Próximo",
+        "AVAILABLE_BALANCE_IN": "Saldo disponível em",
+        "MAIN_PIX": {
+            "AVAILABLE_BALANCE": "Saldo disponível em",
+            "STATEMENT_BUTTON_DESCRIPTION": "Extrato atualizado em",
+            "STATEMENT_BUTTON_TITLE": "Confira seu extrato completo"
+        },
+        "RECEIVE_PIX": {
+            "HEADER_TITLE": "Receber",
+            "DESCRIPTION": "Gere um QR Code ou pague por chave",
+            "TITLE": "Receber",
+            "STATIC": {
+                "DESCRIPTION": "Para realizar mais de uma transação",
+                "TITLE": "Receber com QR estático",
+                "TITLE_LOADING": "Gerando QR Code",
+                "SELECT_ALIAS": {
+                    "VALUE_TITLE": "Selecione a chave da conta em que deseja receber",
+                    "PHONE": "FONE",
+                    "GET_ALIASES_ERROR": "Erro ao obter as chaves",
+                    "ALIASES_LOADING": "Carregando chaves"
+                },
+                "INPUT_AMOUNT": {
+                    "TITLE": "Quanto você quer receber?",
+                    "NO_AMOUNT_CHECK": "Não quero informar um valor",
+                    "REFERENCE": "Identificador (opcional)",
+                    "REFERENCE_EX": "Ex: Churrasco",
+                    "DESCRIPTION": "Descrição (opcional)",
+                    "DESCRIPTION_EX": "Ex: Valor por pessoa",
+                    "OTHER_INFO": "Se desejar, envie uma pergunta ou informação para o pagador (opcional)",
+                    "OTHER_INFO_EX": "Ex: qual o sabor da pizza?"
+                },
+                "SUCCESS": {
+                    "TITLE": "QR Code gerado com sucesso!",
+                    "SUBTITLE": "Mostre esse QR Code para receber"
+                }
+            }
+        },
+        "PAYMENT_PIX": {
+            "DESCRIPTION": "Via leitura de QR Code ou por chave",
+            "TITLE": "Pagar"
+        },
+        "TRANSFER_PIX": {
+            "MENU_DESCRIPTION": "Transfira por chave ou manualmente",
+            "TITLE": "Transferir",
+            "OWNERSHIP": "Mesma Titularidade?",
+            "OWNERSHIP_POSITIVE": "Sim",
+            "OWNERSHIP_NEGATIVE": "Não",
+            "RECIPIENT_NAME": "Qual o nome do favorecido?",
+            "DOCUMENT_NUMBER": "Qual o número do documento?",
+            "BANK_SELECTION": "Qual a instituição?",
+            "SEARCH_INPUT_BANK_PLACEHOLDER": "Procure pelo banco...",
+            "ACCOUNT_TYPE": "Selecione o tipo de conta:",
+            "PAYMENT_ACCOUNT": "Conta Corrente/Pagamento",
+            "SAVINGS_ACCOUNT": "Conta Poupança",
+            "SALARY_ACCOUNT": "Conta Salário",
+            "BRANCH_NUMBER": "Qual é a agência?",
+            "ACCOUNT_NUMBER": "Qual é o número da conta",
+            "INPUT_CURRENCY": "Quanto você irá transferir?",
+            "BALANCE_ERROR": "Erro ao obter saldo",
+            "REFERENCE": "Identificador (opcional)",
+            "REFERENCE_EX": "Ex: Churrasco",
+            "DESCRIPTION": "Descrição (opcional)",
+            "DESCRIPTION_EX": "Ex: Valor por pessoa",
+            "INSUFFICIENT_BALANCE": "Ops...\nVocê não possui saldo suficiente para realizar essa transferência.",
+            "CONFIRM_TRANSFER": "Confirme os dados da transação:",
+            "REFERENCE_LABEL": "Identificador",
+            "DESCRIPTION_LABEL": "Descrição",
+            "BANKS_LIST_ERROR": "Erro ao obter lista de instituições",
+            "COMPLETED_TITLE": "Solicitação Realizada!",
+            "COMPLETED_SUBITITLE": "A solicitação de transferiencia foi realizada. Enviaremos uma notificação quando o pagamento for efetivado.",
+            "NEW_TRANSFER": "Nova Transferência",
+            "INITIAL_SCREEN": "Tela Inicial PIX"
+        },
+        "ALIASES_PIX": {
+            "ALIAS": "Chave",
+            "DESCRIPTION": "Gerencie e cadastre suas chaves",
+            "TITLE": "Chaves",
+            "HEADER_TITLE": "Gerenciamento de Chaves",
+            "REGISTER": {
+                "DESCRIPTION": "Para pagar, receber ou efetuar transferência",
+                "TITLE": "Cadastrar nova chave"
+            },
+            "MANAGE": {
+                "DESCRIPTION": "Valide, reinvindique e realize portabilidades",
+                "TITLE": "Gerenciar solicitações"
+            },
+            "CONSULT": {
+                "DESCRIPTION": "Consulte suas chaves e compartilhe para receber",
+                "TITLE": "Minhas chaves cadastradas",
+                "HEADER_TITLE": "Minhas Chaves",
+                "ALIAS_GET_ERROR": "Erro ao obter chaves",
+                "ALIAS_GET_LOADING": "Carregando chaves",
+                "ALIAS_TYPE": "Tipo",
+                "LABEL_EMAIL": "E-mail",
+                "LABEL_PHONE": "Telefone",
+                "LABEL_EVP": "EVP(Endereço Virtual de Pagamento)"
+            }
+        }
+    },
+    "TIMELINE": {
+        "HEADER_TITLE": "Timeline",
+        "CAROUSEL_SELECTOR": {
+            "BUTTONS": {
+                "ALL": "Tudo",
+                "CREDIT": "Recebimento",
+                "DEBIT": "Pagamento",
+                "INFO": "Conta"
+            }
+        },
+        "DATE_FILTER": {
+            "HEADER_TITLE": "Filtrar",
+            "FILTER_BUTTON": "Filtrar",
+            "LAST_ONE_HUNDRED_AND_EIGHTY_DAYS": "Últimos 180 dias",
+            "LAST_NINETY_DAYS": "Últimos 90 dias",
+            "LAST_THIRTY_DAYS": "Últimos 30 dias",
+            "LAST_SEVEN_DAYS": "Últimos 7 dias",
+            "PERIOD_SELECTION": "Escolha o período:",
+            "THIS_MONTH": "Este mês"
+        },
+        "ENTRY": {
+            "ACCOUNTCREATED": "Efetivação de Criação de Cadastro",
+            "CREDIT": "Pagamento Recebido",
+            "DEBIT": "Pagamento Efetuado",
+            "INTERNAL_TRANSFER_RECEIVED": "Transferência Recebida",
+            "INTERNAL_TRANSFER_SENT": "Transferência Efetuada",
+            "OTHER": "Outros",
+            "REQUESTACCOUNTCREATION": "Solicitação de Criação de Cadastro",
+            "TODAY": "Hoje",
+            "UPDATEACCOUNTDETAILS": "Atualização de Detalhes da Conta",
+            "WITHDRAWBOLETO": "Pagamento de Boleto"
+        },
+        "LIST_ERROR": "Erro ao carregar a lista",
+        "LIST_NO_RESULTS": "Não há informações nesse período",
+        "LOADING": "Carregando...",
+        "MODAL": {
+            "HIDE_ENTRY_CONTENT": "Não quero mais ver isso",
+            "SHOW_DETAILS": "Ver Detalhes",
+            "SHOW_ENTRY_CONTENT": "Quero ver isso"
+        },
+        "TIMELINE_LIST": {
+            "HIDE_AMOUNTS": "Ocultar valores",
+            "SHOW_AMOUNTS": "Mostrar valores"
+        }
+    }
+}

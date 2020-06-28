@@ -1,0 +1,25 @@
+{
+  "CAMERA": {
+    "CENTER_YOUR_FACE": "Centralize seu rosto dentro da máscara.",
+    "CENTER_DOCUMENT_FRONT": "Posicione seu documento dentro da MASCARA.",
+    "CENTER_DOCUMENT_BACK": "Agora precisamos do verso.",
+    "CENTER_DOCUMENT_BACK1": "Agora precisamos do verso.",
+    "TESTE": {
+      "CAMERA": {
+        "CENTER_YOUR_FACE": "Centralize seu rosto dentro da máscara.",
+        "CENTER_DOCUMENT_FRONT": "Posicione seu documento dentro da máscara.",
+        "CENTER_DOCUMENT_BACK": "Agora precisamos do verso.",
+        "CONFIRME_PICTURE_DOCUMENT": "O documento está legível no seu Nome e número de CPF? Se sim, é só confirmar!",
+        "CONFIRME_PICTURE_SELFIE": "Sua selfie ficou legal? Se sim, é só CONFIRMAR!",
+        "TEXTS": {
+          "1": "A",
+          "2": "B",
+          "3": {
+            "OK": "OK"
+          }
+        }
+      }
+    }
+  },
+  "CAMERA3": "CAMERA4"
+}
